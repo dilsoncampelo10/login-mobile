@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fb31a7fb-03cf-4e33-b285-86e117cd9cf3"
+      }
+    },
+    "owner": "dilsoncampelo"
   }
 }
